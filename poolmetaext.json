@@ -1,0 +1,18 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/potatopoolnl/potatopool/master/picon.png",
+        "location": "Europe",
+        "social": {
+            "github_handle": "potatopoolnl"
+        },
+        "company": {
+            "name": "Potato Inc"
+        },
+        "about": {
+            "me": "Hello this is potato pool."
+        }
+    },
+    "my-pool-ids": {
+       "0": "03bca14f8d509c90e8f071143ce29cb9e9bc55c5651489f5e2931fd2"
+    }
+}
